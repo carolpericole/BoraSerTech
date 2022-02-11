@@ -1,0 +1,16 @@
+{
+  "name": "modulo-iv",
+  "version": "1.0.0",
+  "description": "primeiro-teste-js",
+  "main": "index.js",
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "carolina",
+  "license": "ISC"
+}
